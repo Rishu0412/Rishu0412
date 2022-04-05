@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rishu0412
+- 👋 Hi, I’m Rishabh Gaur(@Rishu0412)U
 - 👀 I’m interested in Data Science, Artifical Intelligence.
 - 🌱 I’m currently learning NLP.
 - 💞️ I’m looking to collaborate on NLP projects.
